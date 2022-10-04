@@ -1,9 +1,7 @@
 # Unity3D_Baller
 
 ## 플레이 영상
-
-https://www.youtube.com/watch?v=eFHSK0kFIx
-
+https://www.youtube.com/watch?v=eFHSK0kFIxI
 ## 씬 구성
 
 ### 시작 화면
